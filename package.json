@@ -7,7 +7,10 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^2.6.11"
+    "@sentry/tracing": "^6.13.3",
+    "@sentry/vue": "^6.13.3",
+    "vue": "^2.6.11",
+    "vue-router": "^3.5.3"
   },
   "devDependencies": {
     "@vue/cli-service": "~4.5.0",

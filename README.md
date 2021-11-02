@@ -1,5 +1,7 @@
 # vue-sentry
 
+Project to test sending alerts to Sentry
+
 ## Project setup
 ```
 npm install
